@@ -1,7 +1,8 @@
 ## Sales-Customer-Analytics
 A dashboard for E-commerce Business
 
-![final](https://github.com/user-attachments/assets/22335c41-2466-433f-b80e-476cac425890)
+![ecommerce](https://github.com/user-attachments/assets/7a14bd17-f0cc-4045-94e7-63bada5f6ced)
+
 
 ### project overview
 In this portfolio project, I conducted a full analysis of an e-commerce company's sales and customer data to extract business insights and visualize key performance metrics. 
